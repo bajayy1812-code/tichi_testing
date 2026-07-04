@@ -1,0 +1,143 @@
+[2026-07-04 00:16:09] INFO: Launching Signup
+[2026-07-04 00:16:09] INFO: Launching Browser
+[2026-07-04 00:16:09] INFO: Launching Browser
+[2026-07-04 00:16:11] ERROR: HTTP 400 : https://accounts.google.com/gsi/button?type=standard&theme=outline&size=large&text=continue_with&shape=rectangular&logo_alignment=undefined&width=undefined&locale=undefined&click_listener=undefined&is_fedcm_supported=true&client_id=313420793236-ncr4215m02vr07nc5o8bfad6ms5is761.apps.googleusercontent.com&iframe_id=gsi_371419_407470&cas=%2Fstf0y6rAwMHCXeIhRwCvgtXGPrq%2BIADHa2ZbCFKWKM
+[2026-07-04 00:16:11] ERROR: Console Error: Failed to load resource: the server responded with a status of 400 ()
+[2026-07-04 00:16:11] ERROR: HTTP 400 : https://accounts.google.com/gsi/button?type=standard&theme=outline&size=large&text=continue_with&shape=rectangular&logo_alignment=undefined&width=undefined&locale=undefined&click_listener=undefined&is_fedcm_supported=true&client_id=313420793236-ncr4215m02vr07nc5o8bfad6ms5is761.apps.googleusercontent.com&iframe_id=gsi_371419_967610&cas=AUc%2Fzj3Nq7fIPO6qpvm%2Fr%2BTFjDchVUwAATe9SvYUnMs
+[2026-07-04 00:16:11] ERROR: Console Error: Failed to load resource: the server responded with a status of 400 ()
+[2026-07-04 00:16:11] ERROR: Console Error: [GSI_LOGGER]: The given origin is not allowed for the given client ID.
+[2026-07-04 00:16:11] ERROR: Console Error: [GSI_LOGGER]: The given origin is not allowed for the given client ID.
+[2026-07-04 00:16:12] INFO: Page Load Time : 1077 ms
+[2026-07-04 00:16:12] INFO: Page Load Time : 1074 ms
+[2026-07-04 00:16:12] INFO: Executing Invalid Email
+[2026-07-04 00:16:12] INFO: Executing Valid Login
+[2026-07-04 00:16:13] INFO: Invalid Email Validation Passed
+[2026-07-04 00:16:13] ERROR: HTTP 404 : https://o0guf45zb8.execute-api.ap-south-1.amazonaws.com/qa/auth/exists
+[2026-07-04 00:16:13] ERROR: Console Error: Failed to load resource: the server responded with a status of 404 ()
+[2026-07-04 00:16:13] ERROR: Console Error: API Error: {url: https://o0guf45zb8.execute-api.ap-south-1.amazonaws.com/qa/auth/exists, method: put, status: 404, statusText: , code: ERR_BAD_REQUEST}
+[2026-07-04 00:16:13] INFO: Valid Login Passed
+[2026-07-04 00:16:13] INFO: Page Load Time : 2622 ms
+[2026-07-04 00:16:13] INFO: Executing Signup
+[2026-07-04 00:16:15] INFO: Launching Signup
+[2026-07-04 00:16:16] INFO: Launching Browser
+[2026-07-04 00:16:18] INFO: Launching Browser
+[2026-07-04 00:16:19] INFO: Page Load Time : 1683 ms
+[2026-07-04 00:16:19] INFO: Executing Signup
+[2026-07-04 00:16:23] ERROR: HTTP 400 : https://accounts.google.com/gsi/button?type=standard&theme=outline&size=large&text=continue_with&shape=rectangular&logo_alignment=undefined&width=undefined&locale=undefined&click_listener=undefined&is_fedcm_supported=false&client_id=313420793236-ncr4215m02vr07nc5o8bfad6ms5is761.apps.googleusercontent.com&iframe_id=gsi_382921_878953&cas=ujK0KC01N4gtAdhHQU6FtEaFQ0hoSvUdQBwIDsh0KZs
+[2026-07-04 00:16:23] ERROR: Console Error: [GSI_LOGGER]: The given origin is not allowed for the given client ID.
+[2026-07-04 00:16:24] INFO: Page Load Time : 690 ms
+[2026-07-04 00:16:24] INFO: Executing Invalid Email
+[2026-07-04 00:16:24] INFO: Invalid Email Validation Passed
+[2026-07-04 00:16:26] ERROR: HTTP 400 : https://accounts.google.com/gsi/button?type=standard&theme=outline&size=large&text=continue_with&shape=rectangular&logo_alignment=undefined&width=undefined&locale=undefined&click_listener=undefined&is_fedcm_supported=false&client_id=313420793236-ncr4215m02vr07nc5o8bfad6ms5is761.apps.googleusercontent.com&iframe_id=gsi_385505_622039&cas=MhTLXvCtF0R%2FiTKyp1kOY15HiBf6jecsiRrVmLygcEM
+[2026-07-04 00:16:26] ERROR: Console Error: [GSI_LOGGER]: The given origin is not allowed for the given client ID.
+[2026-07-04 00:16:26] INFO: Launching Browser
+[2026-07-04 00:16:26] INFO: Launching Browser
+[2026-07-04 00:16:27] INFO: Page Load Time : 1685 ms
+[2026-07-04 00:16:27] INFO: Executing Valid Login
+[2026-07-04 00:16:28] ERROR: HTTP 404 : https://o0guf45zb8.execute-api.ap-south-1.amazonaws.com/qa/auth/exists
+[2026-07-04 00:16:28] ERROR: Console Error: API Error: JSHandle@object
+[2026-07-04 00:16:28] INFO: Valid Login Passed
+[2026-07-04 00:16:30] ERROR: HTTP 400 : https://accounts.google.com/gsi/button?type=standard&theme=outline&size=large&text=continue_with&shape=rectangular&logo_alignment=undefined&width=undefined&locale=undefined&click_listener=undefined&is_fedcm_supported=false&client_id=313420793236-ncr4215m02vr07nc5o8bfad6ms5is761.apps.googleusercontent.com&iframe_id=gsi_389865_131100&cas=NfPA7a1KEF3ECqoIxf86xfghpIL9nTLxfxKWXmjqRFk
+[2026-07-04 00:16:30] ERROR: Console Error: Failed to load resource: the server responded with a status of 400 ()
+[2026-07-04 00:16:30] ERROR: HTTP 400 : https://accounts.google.com/gsi/button?type=standard&theme=outline&size=large&text=continue_with&shape=rectangular&logo_alignment=undefined&width=undefined&locale=undefined&click_listener=undefined&is_fedcm_supported=false&client_id=313420793236-ncr4215m02vr07nc5o8bfad6ms5is761.apps.googleusercontent.com&iframe_id=gsi_389947_976708&cas=nnIN2CqYO5tJ4xkDuMcfURNFbv6YemJWuNJvp5c6pGU
+[2026-07-04 00:16:30] ERROR: Console Error: Failed to load resource: the server responded with a status of 400 ()
+[2026-07-04 00:16:30] ERROR: Console Error: [GSI_LOGGER]: The given origin is not allowed for the given client ID.
+[2026-07-04 00:16:30] ERROR: Console Error: [GSI_LOGGER]: The given origin is not allowed for the given client ID.
+[2026-07-04 00:16:30] INFO: Page Load Time : 1187 ms
+[2026-07-04 00:16:30] INFO: Executing Valid Login
+[2026-07-04 00:16:31] INFO: Page Load Time : 507 ms
+[2026-07-04 00:16:31] INFO: Executing Invalid Email
+[2026-07-04 00:16:31] INFO: Invalid Email Validation Passed
+[2026-07-04 00:16:31] ERROR: HTTP 404 : https://o0guf45zb8.execute-api.ap-south-1.amazonaws.com/qa/auth/exists
+[2026-07-04 00:16:31] ERROR: Console Error: Failed to load resource: the server responded with a status of 404 ()
+[2026-07-04 00:16:31] ERROR: Console Error: API Error: {url: https://o0guf45zb8.execute-api.ap-south-1.amazonaws.com/qa/auth/exists, method: put, status: 404, statusText: , code: ERR_BAD_REQUEST}
+[2026-07-04 00:16:32] INFO: Valid Login Passed
+[2026-07-04 00:16:33] INFO: Launching Signup
+[2026-07-04 00:16:37] INFO: Page Load Time : 3644 ms
+[2026-07-04 00:16:37] INFO: Executing Signup
+[2026-07-04 00:16:39] ERROR: Valid_Signup FAILED
+[2026-07-04 00:16:39] ERROR: locator.fill: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[name="firstName"]')[22m
+
+[2026-07-04 00:16:41] ERROR: Valid_Signup FAILED
+[2026-07-04 00:16:41] ERROR: locator.fill: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[name="firstName"]')[22m
+
+[2026-07-04 00:17:02] ERROR: Valid_Signup FAILED
+[2026-07-04 00:17:02] ERROR: locator.fill: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[name="firstName"]')[22m
+
+[2026-07-04 00:17:52] INFO: Launching Browser
+[2026-07-04 00:17:52] INFO: Launching Signup
+[2026-07-04 00:17:52] INFO: Launching Browser
+[2026-07-04 00:17:53] ERROR: HTTP 400 : https://accounts.google.com/gsi/button?type=standard&theme=outline&size=large&text=continue_with&shape=rectangular&logo_alignment=undefined&width=undefined&locale=undefined&click_listener=undefined&is_fedcm_supported=true&client_id=313420793236-ncr4215m02vr07nc5o8bfad6ms5is761.apps.googleusercontent.com&iframe_id=gsi_473319_753029&cas=QWuIwDRTKwduzhIcoF0LzBA%2FvS%2FV54KPiiiQKP95YNk
+[2026-07-04 00:17:53] ERROR: Console Error: Failed to load resource: the server responded with a status of 400 ()
+[2026-07-04 00:17:53] ERROR: HTTP 400 : https://accounts.google.com/gsi/button?type=standard&theme=outline&size=large&text=continue_with&shape=rectangular&logo_alignment=undefined&width=undefined&locale=undefined&click_listener=undefined&is_fedcm_supported=true&client_id=313420793236-ncr4215m02vr07nc5o8bfad6ms5is761.apps.googleusercontent.com&iframe_id=gsi_473319_489029&cas=MUSC4EOJE1Bbsy%2FpvTm32cpjgE69lbm%2FlUHIM497d88
+[2026-07-04 00:17:53] ERROR: Console Error: Failed to load resource: the server responded with a status of 400 ()
+[2026-07-04 00:17:53] ERROR: Console Error: [GSI_LOGGER]: The given origin is not allowed for the given client ID.
+[2026-07-04 00:17:53] ERROR: Console Error: [GSI_LOGGER]: The given origin is not allowed for the given client ID.
+[2026-07-04 00:17:54] INFO: Page Load Time : 923 ms
+[2026-07-04 00:17:54] INFO: Executing Valid Login
+[2026-07-04 00:17:54] INFO: Page Load Time : 964 ms
+[2026-07-04 00:17:54] INFO: Executing Invalid Email
+[2026-07-04 00:17:54] INFO: Invalid Email Validation Passed
+[2026-07-04 00:17:54] INFO: Page Load Time : 2207 ms
+[2026-07-04 00:17:54] INFO: Executing Signup
+[2026-07-04 00:17:54] ERROR: HTTP 404 : https://o0guf45zb8.execute-api.ap-south-1.amazonaws.com/qa/auth/exists
+[2026-07-04 00:17:54] ERROR: Console Error: Failed to load resource: the server responded with a status of 404 ()
+[2026-07-04 00:17:54] ERROR: Console Error: API Error: {url: https://o0guf45zb8.execute-api.ap-south-1.amazonaws.com/qa/auth/exists, method: put, status: 404, statusText: , code: ERR_BAD_REQUEST}
+[2026-07-04 00:17:55] INFO: Valid Login Passed
+[2026-07-04 00:17:56] INFO: Launching Signup
+[2026-07-04 00:17:59] INFO: Launching Browser
+[2026-07-04 00:18:00] INFO: Page Load Time : 1998 ms
+[2026-07-04 00:18:00] INFO: Executing Signup
+[2026-07-04 00:18:02] INFO: Launching Browser
+[2026-07-04 00:18:02] INFO: Launching Browser
+[2026-07-04 00:18:03] INFO: Page Load Time : 89 ms
+[2026-07-04 00:18:03] INFO: Executing Invalid Email
+[2026-07-04 00:18:04] INFO: Launching Browser
+[2026-07-04 00:18:05] ERROR: HTTP 400 : https://accounts.google.com/gsi/button?type=standard&theme=outline&size=large&text=continue_with&shape=rectangular&logo_alignment=undefined&width=undefined&locale=undefined&click_listener=undefined&is_fedcm_supported=false&client_id=313420793236-ncr4215m02vr07nc5o8bfad6ms5is761.apps.googleusercontent.com&iframe_id=gsi_484759_132082&cas=5O03Id7fjPrynmRNMtMXC9t4VIHLMPv4hZOWTOrOlqY
+[2026-07-04 00:18:06] ERROR: Console Error: [GSI_LOGGER]: The given origin is not allowed for the given client ID.
+[2026-07-04 00:18:06] INFO: Page Load Time : 1654 ms
+[2026-07-04 00:18:06] INFO: Executing Valid Login
+[2026-07-04 00:18:07] ERROR: HTTP 400 : https://accounts.google.com/gsi/button?type=standard&theme=outline&size=large&text=continue_with&shape=rectangular&logo_alignment=undefined&width=undefined&locale=undefined&click_listener=undefined&is_fedcm_supported=false&client_id=313420793236-ncr4215m02vr07nc5o8bfad6ms5is761.apps.googleusercontent.com&iframe_id=gsi_487453_953149&cas=qjbmlmYN20O0vfDhiLB19tPx2S6Q1Ap%2F%2FyhOBQTt5%2B8
+[2026-07-04 00:18:08] ERROR: Console Error: [GSI_LOGGER]: The given origin is not allowed for the given client ID.
+[2026-07-04 00:18:08] INFO: Page Load Time : 1536 ms
+[2026-07-04 00:18:08] INFO: Executing Invalid Email
+[2026-07-04 00:18:09] ERROR: HTTP 404 : https://o0guf45zb8.execute-api.ap-south-1.amazonaws.com/qa/auth/exists
+[2026-07-04 00:18:09] ERROR: Console Error: API Error: JSHandle@object
+[2026-07-04 00:18:09] ERROR: HTTP 400 : https://accounts.google.com/gsi/button?type=standard&theme=outline&size=large&text=continue_with&shape=rectangular&logo_alignment=undefined&width=undefined&locale=undefined&click_listener=undefined&is_fedcm_supported=false&client_id=313420793236-ncr4215m02vr07nc5o8bfad6ms5is761.apps.googleusercontent.com&iframe_id=gsi_488970_278308&cas=MBvfdMuscDTfrRGszCW3nQWooYy1sgA04%2BQE40MdyBI
+[2026-07-04 00:18:09] ERROR: Console Error: Failed to load resource: the server responded with a status of 400 ()
+[2026-07-04 00:18:09] ERROR: HTTP 400 : https://accounts.google.com/gsi/button?type=standard&theme=outline&size=large&text=continue_with&shape=rectangular&logo_alignment=undefined&width=undefined&locale=undefined&click_listener=undefined&is_fedcm_supported=false&client_id=313420793236-ncr4215m02vr07nc5o8bfad6ms5is761.apps.googleusercontent.com&iframe_id=gsi_489100_352524&cas=twmpJUK9WtY%2FTOBHRdo2FqaGLgl82WTKg5Da7Zfy0Ew
+[2026-07-04 00:18:09] ERROR: Console Error: Failed to load resource: the server responded with a status of 400 ()
+[2026-07-04 00:18:09] INFO: Invalid Email Validation Passed
+[2026-07-04 00:18:10] ERROR: Console Error: [GSI_LOGGER]: The given origin is not allowed for the given client ID.
+[2026-07-04 00:18:10] INFO: Invalid Email Validation Passed
+[2026-07-04 00:18:10] INFO: Valid Login Passed
+[2026-07-04 00:18:10] INFO: Page Load Time : 510 ms
+[2026-07-04 00:18:10] INFO: Executing Valid Login
+[2026-07-04 00:18:10] INFO: Launching Signup
+[2026-07-04 00:18:11] ERROR: HTTP 404 : https://o0guf45zb8.execute-api.ap-south-1.amazonaws.com/qa/auth/exists
+[2026-07-04 00:18:11] ERROR: Console Error: Failed to load resource: the server responded with a status of 404 ()
+[2026-07-04 00:18:11] ERROR: Console Error: API Error: {url: https://o0guf45zb8.execute-api.ap-south-1.amazonaws.com/qa/auth/exists, method: put, status: 404, statusText: , code: ERR_BAD_REQUEST}
+[2026-07-04 00:18:12] INFO: Valid Login Passed
+[2026-07-04 00:18:13] INFO: Page Load Time : 793 ms
+[2026-07-04 00:18:13] INFO: Executing Signup
+[2026-07-04 00:18:21] ERROR: Valid_Signup FAILED
+[2026-07-04 00:18:21] ERROR: locator.fill: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[name="firstName"]')[22m
+
+[2026-07-04 00:18:24] ERROR: Valid_Signup FAILED
+[2026-07-04 00:18:24] ERROR: locator.fill: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[name="firstName"]')[22m
+
+[2026-07-04 00:18:40] ERROR: Valid_Signup FAILED
+[2026-07-04 00:18:40] ERROR: locator.fill: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('input[name="firstName"]')[22m
+

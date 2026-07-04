@@ -1,0 +1,12 @@
+{
+  "validEmail": "valluvans790@gmail.com",
+  "invalidEmail": "abc",
+  "emptyEmail": "",
+  "sqlInjection": "' OR 1=1 --",
+  "xss": "<script>alert('xss')</script>",
+  "firstName": "Ajay",
+  "lastName": "B",
+  "mobile": "9876543210",
+  "password": "Password@123",
+  "confirmPassword": "Password@123"
+}
